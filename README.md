@@ -6,6 +6,7 @@ This was a task from past NASA hackathon. I got this dataset from Kaggle. The ma
 if we able to predict the Radiation level with good accuracy, positioning of Solar panels could benefit into more energy results into less deendency on non renewable energy sources.
 
 Given dataset was clean and dint need any data cleaning. With the pair plots I found that there is high correlation between Solar Radiation and Tempreture.
+
 <img src='correlation.png'/>
 
 
